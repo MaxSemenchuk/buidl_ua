@@ -3,7 +3,7 @@
 ## Способы участия
 
 * Общение телеграм группе \(пинг [@Polygnom](https://t.me//Polygnom) чтобы получить инвайт\)
-* [Митапы](mitapy/)
+* [Митапы](meetups/)
 
 ![](.gitbook/assets/frame-49.png)
 
