@@ -1,4 +1,4 @@
-# Mission\*
+# Mission \(wip\)
 
 ## Identity
 
