@@ -5,5 +5,5 @@
   * [Meetup ^0.0.1 - 19.03](meetups/meetup-19.03.md)
   * [Meetup ^0.0.2 - 25.04](meetups/meetup-25.04.md)
 * [Крипто Организации в Украине](kripto-organizacii-v-ukraine.md)
-* [Mission \(wip\)](mission.md)
+* [Миссия и Стратегия](mission-strategy.md)
 
