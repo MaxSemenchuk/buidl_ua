@@ -28,6 +28,12 @@ Mykhailo Tiutin. Могу в общем рассказать про zokrates и 
 
 ## Meeting Minutes
 
+{% embed url="https://youtu.be/Lt1nSeNJu\_8" %}
+
+{% embed url="https://youtu.be/KzyJx5OoCmQ" %}
+
+
+
 ### ZK Stark
 
 Втыканул записать – будут видео
