@@ -14,7 +14,7 @@ BUIDL\_ua – сообщество блокчейн разработчиков 
 * [Митапы](meetups/)
   * [Митап \#1 - 19.03](meetups/meetup-19.03.md)
   * [Митап \#2 - 25.04](meetups/meetup-25.04.md)
-  * [Митап \#3 28.05](meetups/meetup-3-28.05.md)
+  * [Митап \#3 - 28.05](meetups/meetup-3-28.05.md)
 
 ![](.gitbook/assets/frame-49.png)
 
