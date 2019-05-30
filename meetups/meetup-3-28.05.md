@@ -6,7 +6,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=hFwuUVQv5cU" caption="" %}
 
-Статья от Димы Веселова для ЩоБиткоïться: [https://telegra.ph/BUIDL-HODL-rinse-repeat-05-29](https://telegra.ph/BUIDL-HODL-rinse-repeat-05-29)
+Статья от Димы Веселова для "Що біткоїться": [https://telegra.ph/BUIDL-HODL-rinse-repeat-05-29](https://telegra.ph/BUIDL-HODL-rinse-repeat-05-29)
 
 ## Монополии в блокчейнах
 
