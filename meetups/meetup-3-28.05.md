@@ -1,7 +1,5 @@
 # Митап \#3 – 28.05
 
-![](../.gitbook/assets/frame-8.jpg)
-
 ## Доклады
 
 {% embed url="https://www.youtube.com/watch?v=hFwuUVQv5cU" caption="" %}
