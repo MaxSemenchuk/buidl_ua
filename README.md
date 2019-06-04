@@ -8,6 +8,8 @@ BUIDL\_ua – сообщество блокчейн разработчиков 
 * участие в глобальном движении \(хакатоны, обуждение\)
 * развитие ценностей децентрализации в Украине
 
+{% embed url="https://www.youtube.com/watch?v=9spIxNX0qIQ" %}
+
 ## Способы участия
 
 * Общение в телеграм группе \(напиши [@Polygnom](https://t.me//Polygnom) чтобы получить инвайт\)
@@ -15,8 +17,6 @@ BUIDL\_ua – сообщество блокчейн разработчиков 
   * [Митап \#1 - 19.03](meetups/meetup-19.03.md)
   * [Митап \#2 - 25.04](meetups/meetup-25.04.md)
   * [Митап \#3 - 28.05](meetups/meetup-3-28.05.md)
-
-![](.gitbook/assets/frame-49.png)
 
 Лого и графика: [https://www.figma.com/file/K4kJkmeGJ79lp5T9UEG1Uvry/BUIDL-ua](https://www.figma.com/file/K4kJkmeGJ79lp5T9UEG1Uvry/BUIDL-ua)
 
