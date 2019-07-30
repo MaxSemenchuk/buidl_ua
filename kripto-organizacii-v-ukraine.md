@@ -24,5 +24,5 @@
 * CYFRD Frontech Investments
 * 482.solutions
 * друзья Алены из Харькова
-* Vareger
+* [Vareger](https://vareger.com/)
 
