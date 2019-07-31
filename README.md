@@ -17,7 +17,7 @@ BUIDL\_ua – сообщество блокчейн разработчиков 
   * [Митап \#1 - 19.03](meetups/meetup-19.03.md)
   * [Митап \#2 - 25.04](meetups/meetup-25.04.md)
   * [Митап \#3 - 28.05](meetups/meetup-3-28.05.md)
-  * [Митап \#4 - 25.06](meetups/meetup-4-5.25.md)
+  * [Митап \#4 - 25.06](meetups/meetup-4-5.25/)
 
 Лого и графика: [https://www.figma.com/file/K4kJkmeGJ79lp5T9UEG1Uvry/BUIDL-ua](https://www.figma.com/file/K4kJkmeGJ79lp5T9UEG1Uvry/BUIDL-ua)
 
