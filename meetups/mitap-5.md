@@ -1,5 +1,7 @@
 # Митап \#5 – 30.07
 
+{% embed url="https://www.youtube.com/watch?v=qjiWop0ZcVg&feature=youtu.be" %}
+
 ### **Family Crypto Inheritance**
 
 Нужно пошейрить секреты с тем, кто остался жив \(или не потерял память\)
