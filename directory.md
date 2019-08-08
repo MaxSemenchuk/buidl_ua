@@ -10,6 +10,7 @@
 * GEO Protocol
 * Kuna
 * Pandora Boxchain
+* [Paracosm](https://paracosm.company/)
 * [Remme](https://remme.io/)
 * [Rundax](https://rundax.com/)
 * Snowball
