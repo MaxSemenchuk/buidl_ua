@@ -12,6 +12,7 @@
 * Pandora Boxchain
 * [Remme](https://remme.io/)
 * [Rundax](https://rundax.com/)
+* Snowball
 
 ### Разработка и Сервисы
 
