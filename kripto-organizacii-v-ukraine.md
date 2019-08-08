@@ -1,28 +1,39 @@
-# Крипто Организации в Украине
+# Крипто Компании в Украине
 
-* Kuna
-* Distributed Lab
-* BAU
+### Продукты
+
 * [Ambisafe](https://ambisafe.com/)
-* Forklog
-* KI Decentralized GMBH
-* Pandora Boxchain
-* GEO Protocol
-* Remme
-* Attic Lab
-* Hacken
-* [4irelabs](https://4irelabs.com/)
-* codemotion.com
-* [Swidom](https://www.swidom.io/)
-* TaaS Fund
 * Bitfury / Exonum
-* Eleks\*
-* SoftServe\*
-* Luxsoft\*
-* [Ideasoft](https://www.ideasoft.io/)
+* Distributed Lab
+* [Everstake](http://Everstake.one)
 * Garuda AI
-* CYFRD Frontech Investments
-* 482.solutions
-* друзья Алены из Харькова
+* GEO Protocol
+* Kuna
+* Pandora Boxchain
+* [Remme](https://remme.io/)
+* [Rundax](https://rundax.com/)
+
+### Разработка и Сервисы
+
+* Attic Lab
+* [482.solutions](https://482.solutions/)
+* [4irelabs](https://4irelabs.com/)
+* [Codemotion](https://codemotion.com)
+* Eleks
+* Hacken
+* [Ideasoft](https://www.ideasoft.io/)
+* [InCrypto](https://incrypto.io/)
+* KI Decentralized GMBH
+* Luxsoft
+* [Madfish Solutions](https://www.madfish.solutions/)
+* SoftServe
 * [Vareger](https://vareger.com/)
+
+### Экосистема
+
+* BAU
+* [Forklog](https://forklog.com)
+* CYFRD Frontech Investments
+* TaaS Fund
+* Що Біткоїться?
 

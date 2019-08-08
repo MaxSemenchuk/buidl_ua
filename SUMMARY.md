@@ -8,6 +8,6 @@
   * [Митап \#4 – 25.06](meetups/meetup-4-5.25.md)
   * [Митап \#5 – 30.07](meetups/mitap-5.md)
 * [Календарь Хакатонов](kalendar-khakatonov.md)
-* [Крипто Организации в Украине](kripto-organizacii-v-ukraine.md)
+* [Крипто Компании в Украине](kripto-organizacii-v-ukraine.md)
 * [Стратегия](mission-strategy.md)
 
