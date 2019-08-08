@@ -4,6 +4,7 @@
 * Aug 23-25 \(Berlin\): [EthBerlin](https://ethberlinzwei.com/)
 * Sep 16-30 \(Online\): [Decentraland SDK Hackathon](https://hack.decentraland.org/?with=weekinethereum)
 * Sep 20 \(Kyiv\): [Blockchain UA](https://blockchainua.com/)
+* Sep 21-22 \(Kyiv\): [Blockchain UA Hackathon](http://blockchainua-hackathon.com/)
 * Oct 10-11 \(Kyiv\): [Crypto Games Conference](https://cryptogames.events/)
 
   
