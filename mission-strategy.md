@@ -65,4 +65,5 @@
 
 * Чередовать митапы по темам \(privacy, scalability, usability etc\)
 * Создать форум с сабтопиками по проблемам?
+* Invite to labs
 
