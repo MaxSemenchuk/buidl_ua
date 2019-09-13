@@ -3,23 +3,24 @@
 ### Продукты
 
 * [Ambisafe](https://ambisafe.com/)
-* Bitfury / Exonum
-* Distributed Lab
+* [Bitfury / Exonum](https://exonum.com/)
+* [Distributed Lab / Token D](https://distributedlab.com/)
+* [Dream team](https://dreamteam.gg/)
 * [Everstake](http://Everstake.one)
-* Garuda AI
-* GEO Protocol
-* Kuna
-* Pandora Boxchain
+* [Garuda AI](https://www.garuda.ai/)
+* [GEO Protocol](https://exonum.com/)
+* [Kuna](https://kuna.io)
+* [Pandora Boxchain](https://t.co/gFKyw7OXTs?amp=1)
 * [Paracosm](https://paracosm.company/)
 * [Remme](https://remme.io/)
 * [Rundax](https://rundax.com/)
-* Snowball
+* [Snowball](https://www.snowball.money)
 
 ### Разработка и Сервисы
 
-* Attic Lab
 * [482.solutions](https://482.solutions/)
 * [4irelabs](https://4irelabs.com/)
+* [Attic Lab](https://atticlab.net/)
 * [Codemotion](https://codemotion.com)
 * Eleks
 * Hacken
@@ -33,7 +34,7 @@
 
 ### Экосистема
 
-* BAU
+* [Blockchain Association Ukraine](https://bau.ai/)
 * [Forklog](https://forklog.com)
 * CYFRD Frontech Investments
 * TaaS Fund
