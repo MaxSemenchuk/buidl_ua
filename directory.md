@@ -3,7 +3,9 @@
 ### Продукты
 
 * [Ambisafe](https://ambisafe.com/)
+* [Anycash](https://any.cash/ru/)
 * [Bitfury / Exonum](https://exonum.com/)
+* [Coinloan](https://coinloan.io/)
 * [Distributed Lab / Token D](https://distributedlab.com/)
 * [Dream team](https://dreamteam.gg/)
 * [Everstake](http://Everstake.one)
@@ -12,9 +14,11 @@
 * [Kuna](https://kuna.io)
 * [Pandora Boxchain](https://t.co/gFKyw7OXTs?amp=1)
 * [Paracosm](https://paracosm.company/)
+* [Paytomat](https://paytomat.com/)
 * [Remme](https://remme.io/)
 * [Rundax](https://rundax.com/)
 * [Snowball](https://www.snowball.money)
+* Trustee?
 
 ### Разработка и Сервисы
 
