@@ -23,7 +23,7 @@
 * [Attic Lab](https://atticlab.net/)
 * [Codemotion](https://codemotion.com)
 * Eleks
-* Hacken
+* [Hacken](https://hacken.io/)
 * [Ideasoft](https://www.ideasoft.io/)
 * [InCrypto](https://incrypto.io/)
 * KI Decentralized GMBH
