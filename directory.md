@@ -22,6 +22,7 @@
 * [4irelabs](https://4irelabs.com/)
 * [Attic Lab](https://atticlab.net/)
 * [Codemotion](https://codemotion.com)
+* [Cryptolions](https://cryptolions.io)
 * Eleks
 * [Hacken](https://hacken.io/)
 * [Ideasoft](https://www.ideasoft.io/)
@@ -29,8 +30,10 @@
 * KI Decentralized GMBH
 * Luxsoft
 * [Madfish Solutions](https://www.madfish.solutions/)
+* [Runsel](https://runsel.com/)
 * SoftServe
 * [Vareger](https://vareger.com/)
+* [Zerohub](https://www.0hub.com/)
 
 ### Экосистема
 
