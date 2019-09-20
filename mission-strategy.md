@@ -47,6 +47,7 @@
 ## Идеи
 
 * Вступать в коммьюнити только по докладу, коммьюнити выбирает кого слушать
+* Вырезать правила [https://www.youtube.com/watch?time\_continue=152&v=fwx1-zAVBJk](https://www.youtube.com/watch?time_continue=152&v=fwx1-zAVBJk)
 
 ## Привлечь больше разработчиков в коммьюнити
 
