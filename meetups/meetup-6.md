@@ -1,6 +1,6 @@
 # Митап \#6 – 24.09
 
-![](../.gitbook/assets/70588210_2720642934620860_3139333472301088768_n.jpg)
+{% embed url="https://www.youtube.com/watch?v=hKf46xwVes4" %}
 
 Время: 24.09 \(Вт\) 18:30 – 21:00 Место: Blockchain hub \(Верхний Вал 10\)
 
