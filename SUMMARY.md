@@ -10,5 +10,6 @@
   * [Митап \#6 – 24.09](meetups/meetup-6.md)
 * [Календарь Ивентов](events.md)
 * [Крипто Компании в Украине](directory.md)
+* [Labs](labs.md)
 * [Стратегия](mission-strategy.md)
 
