@@ -67,6 +67,63 @@ Devcon, EthHackathon...
   * раздавать SWAG
   * Делать вместе с BAU/Blockchain hub
 
+
+
+### ⚽Improve Developer Experience for protocols
+
+* исследования кто сейчас делает в этом направлении
+* анализ devX для платформ \(например remix\) - можно даже получить грант
+* юзабилити для девелоперов \(DevX\)
+* понять кому этот юзабилити важен
+* сделать анализ по юзабилити самых массовых и ценных приложений
+* Исследования кто сейчас делает в этом направлении
+* Поддержку можем обеспечивать на постоянное основе
+* особенно хорошо для новых проектов
+
+Projects
+
+* Near
+* Libra
+* Minter
+* Parity
+* Chromia
+* Cosmos
+* Tezos
+
+### [🤹](https://emojipedia.org/juggling/)Blockchain Team Extension
+
+People:
+
+* [Kirill Kirikov](https://wiki.4irelabs.com/docs/about/kirill-kirikov)
+* [Bohdan Malkevych](https://wiki.4irelabs.com/docs/about/bohdan-malkevych)
+* [Roman Malkevych](https://wiki.4irelabs.com/docs/about/roman-malkevych)
+* …
+
+Skills:
+
+* Proficiency in Ethereum \(Smart contracts, Ethereum Ecosystem tools and knowledge, Knowledge of how to build decentralized systems instead of centralized backend\)
+* DApps Development \(any FE/ any BE ~node.js, python, vue.js, react\) +
+* Cryptography knowledge: \(Encryption / ZK / Elliptic Curves / Hashes\) +
+* Blockchain Core \(merkle trees, consensus mechanisms, balance and TX0 model\) +
+* Browser extensions
+* DevOps \(Setting up nodes, infura, the security of nodes\)
+* Bridges and cross-chain assets transfers
+* Rust
+
+#### Get/Stay in touch with the web3 projects
+
+Use buidl ua as the platform – great UA engineers
+
+#### Create More Effective Engineers
+
+#### Программа стажировки <a id="&#x41F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x430;-&#x441;&#x442;&#x430;&#x436;&#x438;&#x440;&#x43E;&#x432;&#x43A;&#x438;"></a>
+
+#### Делать классно оупенсорс проекты
+
+* отладить процесс через github
+* документация и тд
+* оформить наш github
+
 ## Лидер/HR в IT компаниях
 
 * Хайринг
