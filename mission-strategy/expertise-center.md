@@ -13,6 +13,14 @@
 * Чередовать митапы по темам \(privacy, scalability, usability etc\)
 * Создать форум с сабтопиками по проблемам?
 * Invite to labs
+* Подключить Сергея Чана
+
+
+
+* Make monthly blockchain developer meetups
+* Engage more UX, marketing, PR people
+* Attract advisors
+* Internships \(Unit City, xteams\)
 
 ## Митапы
 

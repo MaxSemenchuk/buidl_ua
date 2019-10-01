@@ -4,6 +4,15 @@
 * \(микро\)финансирование - фандинг рисерчей
 * Продвигать украинские продукты зарубеж \(клиенты, партнеры, инвестиции\)
   * сотрудничать с BAU, особенно по внешним контактам
+* Getting sustainable funding
+  * Collect / Monthly review grant programs, hackathons, [incubators / accelerators](https://wiki.4irelabs.com/docs/research/blockchain-accelerators-and-incubators)
+  * Paid milestones
+  * Token system redesign
+  * Get customers  / +Develop the brand awareness, Publicize the work more
+  * Build relationships with domain investors
+  * Track grants and support the grant requests
+
+
 
 [**Polkadot Grants**](https://github.com/w3f/Web3-collaboration/blob/master/development.md) –These are more informal grants published on the Web 3 Foundation's github. Funding can be applied for by those building around the Polkadot ecosystem and working to make the Web 3 vision a reality.
 

@@ -27,9 +27,10 @@ We're organized in the mesh of different specialists to solve complex technical 
 * Product + Cross functional teams + Design Thinking
 * Freedom \(достала галера – добро пожаловать к нам\)
 * Buidl the future, no bullshit
-* Come together to share risks \(фаундерства и безденежья\) and increase the potential
+* Come together to share risks \(founders and funding\) and increase the potential
 * Open value network
 * Real tasks and value for blockchain
+* Through list gathering, interviews, group discussions, advisors & experts
 
 ## Blockchain Developers
 
@@ -125,4 +126,8 @@ We're organized in the mesh of different specialists to solve complex technical 
 * [https://www.adelphoi.io/](https://www.adelphoi.io/)
 * [DAO Incubator](http://daoincubator.org)
 * [Eth Metacartel Accelerator](https://medium.com/metacartel/calling-all-application-layer-projects-metacartel-dao-accelerator-applications-now-open-676d0a9409e)
+
+### Read more
+
+* [https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae](https://medium.com/l4-media/making-sense-of-web-3-c1a9e74dcae)
 

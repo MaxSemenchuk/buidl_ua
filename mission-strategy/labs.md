@@ -1,10 +1,26 @@
-# Labs
+# Labs / Incubator
 
 * Alex Kozlov
 * 482 do it great: select the case and try the new tech to solve it strictly in 3 weeks
 * make 100 design thinking workshops / product reports
 * Check out IDEO Hackathon/course
 * Помогать находить команду для хакатона
+* Setup research refinement method \(right question, stakeholders, links etc\)
+* Refine interview practices
+* Crash test / Ideation
+* Advisory process
+
+Aspirations:
+
+* [IDEO](https://www.ideo.com/eu) – first apple mouse, design thinking, 700 people
+* [L2 Thinktank](https://www.l2inc.com/) \(acquired by Gartner for $134M\)
+* [Human Ventures](https://humanventures.co/) \(12 products, 2 acquired\)
+* Whatever Elon Musk does
+* Lockheed Martin's [Skunk Works](https://en.wikipedia.org/wiki/Skunk_Works)
+
+
+
+
 
 ## Topics <a id="Labs-Policies"></a>
 
