@@ -101,7 +101,6 @@ We're organized in the mesh of different specialists to solve complex technical 
   * собрать профайлы мемберов по специализациям
   * Давать возможность презентовать проект и сказать про хайринг
 * База скилов / Обучение
-  * 
 
 ## Blockchain Hub
 
