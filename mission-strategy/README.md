@@ -37,7 +37,7 @@ We're organized in the mesh of different specialists to solve complex technical 
 ### Brand
 
 * Покорение Эвереста без бекапа \(смелость\)
-* Funk \(фан\)
+* Funk \(фан, easy\)
 * Автостопом по галактике \(прикольные персонажи\)
 {% endhint %}
 
@@ -49,10 +49,6 @@ We're organized in the mesh of different specialists to solve complex technical 
 * Ната Дрик
 * [Фишкин](https://www.linkedin.com/in/vitaliyfish/?originalSubdomain=ua) \(@vitaliyfish\)
 * Ольшанский
-{% endhint %}
-
-{% hint style="info" %}
-### Meetups
 {% endhint %}
 
 {% hint style="info" %}
@@ -80,10 +76,6 @@ We're organized in the mesh of different specialists to solve complex technical 
 {% endhint %}
 
 ## Protocols & Technologies
-
-{% hint style="info" %}
-### [Think Tank](labs.md)
-{% endhint %}
 
 * продвижение технологии / увеличение адопшна
   * [https://nearprotocol.com/ambassador/](https://nearprotocol.com/ambassador/)
@@ -133,10 +125,4 @@ We're organized in the mesh of different specialists to solve complex technical 
 * [https://www.adelphoi.io/](https://www.adelphoi.io/)
 * [DAO Incubator](http://daoincubator.org)
 * [Eth Metacartel Accelerator](https://medium.com/metacartel/calling-all-application-layer-projects-metacartel-dao-accelerator-applications-now-open-676d0a9409e)
-
-## Решение проблем
-
-* Чередовать митапы по темам \(privacy, scalability, usability etc\)
-* Создать форум с сабтопиками по проблемам?
-* Invite to labs
 

@@ -5,8 +5,6 @@
 * Продвигать украинские продукты зарубеж \(клиенты, партнеры, инвестиции\)
   * сотрудничать с BAU, особенно по внешним контактам
 
-
-
 [**Polkadot Grants**](https://github.com/w3f/Web3-collaboration/blob/master/development.md) –These are more informal grants published on the Web 3 Foundation's github. Funding can be applied for by those building around the Polkadot ecosystem and working to make the Web 3 vision a reality.
 
 * UI / Wallets \(Besides Metamask-like wallets at the moment!\)

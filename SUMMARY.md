@@ -14,5 +14,5 @@
   * [Expertise Center](mission-strategy/expertise-center.md)
   * [Labs](mission-strategy/labs.md)
   * [Funding](mission-strategy/funding.md)
-  * [Integration](mission-strategy/integration.md)
+  * [Communication](mission-strategy/integration.md)
 
