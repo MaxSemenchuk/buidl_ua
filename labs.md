@@ -2,10 +2,8 @@
 
 ## List <a id="Labs-Policies"></a>
 
-* [Facilitation Skype](https://forum.dgov.foundation/t/facilitation-focused-call-software/114)
-* Condominium
-* KiriTravel
-* CrossBorder payments
+* Parity Dashboard
+* Parity Multisig
 
 ## Policies <a id="Labs-Policies"></a>
 
@@ -27,19 +25,7 @@ Process for phase 3 funding \(testing & validation\) \(like in Aragon\)
 
 Everybody can put requests[ in the requests table](http://docs.seductive-cloud.com/pages/viewpage.action?pageId=23953501), LL determine the priority and move to "approved".
 
-## Roles <a id="Labs-Roles"></a>
-
-* LeadLink – Max
-* Researcher – Max, Stas, Kirill, Bohdan, Oleg
-* Advisors \(various\)
-* Facilitator – Max
-* Secretary – Max
-
-### Researcher <a id="Labs-Researcher"></a>
-
-Purpose: research the market needs 
-
-Accountabilities:
+Activities:
 
 * Conduct customer interviews \(formal & informal\)
 * Participate in related conferences and events
