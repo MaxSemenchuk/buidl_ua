@@ -1,6 +1,6 @@
 # Strategy
 
-Purpose: lead the web3 adoption
+Purpose: lead the web3 adoption; create more great blockchain products in Ukraine.
 
 While the Web 2.0 democratized many power structures and created new opportunities, the economic engine is largely privatized and monopolized. Facebook, Uber and AirBnB have created private networks for public infrastructure which they dominate. The Web 3.0 is the antithesis of this, it’s about multiple profit centers sharing value across an open network. Web3 benefits:
 
