@@ -34,6 +34,8 @@ We're organized in the mesh of different specialists to solve complex technical 
 
 ## Blockchain Developers
 
+* Talk about DeFi \(cdai, gas station etc\)
+
 {% hint style="info" %}
 ### Brand
 
