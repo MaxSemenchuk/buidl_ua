@@ -18,6 +18,7 @@
 
 ## Research
 
+* [Lab](research/lab.md)
 * [DevX](research/devx/README.md)
   * [Improving Developer Experience in Aragon](research/devx/improving-developer-experience-in-aragon.md)
 * [Interoperability](research/interoperability/README.md)
