@@ -21,6 +21,7 @@
 * [Lab](research/lab.md)
 * [DevX](research/devx/README.md)
   * [Improving Developer Experience in Aragon](research/devx/improving-developer-experience-in-aragon.md)
+  * [Developer Experience Workshop](research/devx/developer-experience-workshop.md)
 * [Interoperability](research/interoperability/README.md)
   * [Use Cases for Terrabridge \(ETH&lt;&gt;BTC\)](research/interoperability/use-cases-for-terrabridge-eth-less-than-greater-than-btc.md)
   * [Enabling Decentralized Interchain Transactions between ETH and BTC with Parachains](research/interoperability/enabling-decentralized-interchain-transactions-between-eth-and-btc-with-parachains.md)
