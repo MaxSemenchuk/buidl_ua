@@ -1,27 +1,19 @@
-# Добро пожаловать в коммьюнити
+# Welcome to BUIDL ua community
 
-BUIDL\_ua – сообщество блокчейн разработчиков Украины. Видение: делать больше крутых блокчейн продуктов в Украине  через:
+BUIDL ua is a community of  blockchain developers in Ukraine.
 
-* построение связей
-* обмен экспертизой
-* кросс-доменное сотрудничество
-* участие в глобальном движении \(хакатоны, обcуждение\)
-* развитие ценностей децентрализации в Украине
+Our vision is to support the creation of more cool blockchain products in Ukraine through:
 
-Ценность бидла в формировании новых продуктов и команд
+* building [the community](directory.md) connections through [meetups](meetups/) and chat \(ping [@Polygnom](https://t.me//Polygnom) to get invited\)
+* expertise exchange
+* cross function collaboration
+* participation in the global movement \(hackathons, discussion\)
+* supporting the value of decentralization values in Ukraine 
+* building teams and product concepts \(check our drafts on [DevX](research/devx/), [Usability](research/usability/) and [Interoperability](research/interoperability/)\)
+
+Intro from one of our meetups \(in russian\):
 
 {% embed url="https://www.youtube.com/watch?v=9spIxNX0qIQ" %}
 
-## Способы участия
-
-* Общение в телеграм группе \(напиши [@Polygnom](https://t.me//Polygnom) чтобы получить инвайт\)
-* [Митапы](meetups/)
-  * [Митап \#1 - 19.03](meetups/meetup-19.03.md)
-  * [Митап \#2 - 25.04](meetups/meetup-25.04.md)
-  * [Митап \#3 - 28.05](meetups/meetup-3-28.05.md)
-  * [Митап \#4 - 25.06](meetups/meetup-4-5.25.md)
-  * [Митап \#5 - 30.07](meetups/mitap-5.md)
-  * [Митап \#6 - 24.09](meetups/meetup-6.md)
-
-Лого и графика: [https://www.figma.com/file/K4kJkmeGJ79lp5T9UEG1Uvry/BUIDL-ua](https://www.figma.com/file/K4kJkmeGJ79lp5T9UEG1Uvry/BUIDL-ua)
+Use our logo and graphics: [https://www.figma.com/file/K4kJkmeGJ79lp5T9UEG1Uvry/BUIDL-ua](https://www.figma.com/file/K4kJkmeGJ79lp5T9UEG1Uvry/BUIDL-ua)
 
