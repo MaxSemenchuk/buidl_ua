@@ -11,6 +11,8 @@ Our vision is to support the creation of more cool blockchain products in Ukrain
 * supporting the value of decentralization values in Ukraine 
 * building teams and product concepts \(check our drafts on [DevX](research/devx/), [Usability](research/usability/) and [Interoperability](research/interoperability/)\)
 
+Visit our forum for more info: [https://buidltogether.com/](https://buidltogether.com/)
+
 Intro from one of our meetups \(in russian\):
 
 {% embed url="https://www.youtube.com/watch?v=9spIxNX0qIQ" %}
